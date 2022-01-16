@@ -1,2 +1,6 @@
-# Leetcode_Solutions
-- Git Repo To Track My Progress In Leetcode Questions
+# LEETCODE
+
+## Languages In Use:
+	1. Java
+	2. Python
+	3. JavaScript
