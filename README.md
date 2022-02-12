@@ -3,4 +3,3 @@
 - ☕ Java
 - 🐍 Python
 - 🕸️ JavaScript
-- C++
