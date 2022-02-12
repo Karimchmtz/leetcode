@@ -5,4 +5,4 @@ In my third year studying software engineering, I gave mysef the challenge to co
 ## 💻 Languages In Use:
 - ☕ Java
 - 🐍 Python
-- 🕸️ JavaScript
+- 🕸️ NodeJs
