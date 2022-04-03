@@ -11,5 +11,3 @@ class Solution:
             n -= 2
             k += 1
         return result
-
-print(Solution.sumZero(Solution, 5))
